@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UAS_AKB_IF5_10120181</string>
+    <string name="profile">Profil</string>
+    <string name="note">Catatan</string>
+    <string name="info">Info</string>
+    <string name="nama">Akhdan Rafly</string>
+    <string name="kelas">IF - 5</string>
+    <string name="nim">10120181</string>
+    <string name="matkul">Aplikasi Komputasi Bergerak</string>
+    <string name="email">akhdan.10120181@mahasiswa.unikom.ac.id</string>
+    <string name="unikom">Universitas Komputer Indonesia</string>
+    <string name="txt_catat">Catat</string>
+    <string name="txt_tulis">Tuliskan</string>
+    <string name="txt_baca">Baca Kemudian</string>
+
+</resources>
